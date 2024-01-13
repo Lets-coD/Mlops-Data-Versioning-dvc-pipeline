@@ -28,3 +28,6 @@ If you already have a preferred text editor, skip this step.
 * Stop any container that is running
 * Run `docker system prune`
 * Run `docker image ls`
+
+
+https://colab.research.google.com/drive/13fFd0dpmXD7CNGtQL6Qq9-a9rAq3QT1k#scrollTo=VXjQIb7JmsvG
